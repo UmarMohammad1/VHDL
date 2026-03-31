@@ -2,8 +2,8 @@
 -- The assignment operator for a signal is: <=
 --
 -- In VHDL werden Signale mit dem Operator "<=" zugewiesen.
--- Signalzuweisungen sind nebenlaeufig (concurrent) und werden
--- nach einer Delta-Verzoegerung wirksam.
+-- Signalzuweisungen sind nebenläufig (concurrent) und werden
+-- nach einer Delta-Verzögerung wirksam.
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
